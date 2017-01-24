@@ -1,0 +1,60 @@
+html{
+}
+
+body{
+    margin: auto;
+    background-image: url(FC_Chelsea/stadium.jpg);
+    background-attachment: fixed;
+}
+#contentt{
+    margin:0 250 0 250;
+    background-image:url(FC_Chelsea/fon2.png);
+    padding:0 0 0 0;
+    
+}
+#had{
+    height: 150;  
+}
+#floor{
+    width:auto;
+    border:1px solid black;
+    height:100px;
+    background-image: url(FC_Chelsea/floor.PNG);
+    background-repeat: repeat;
+}
+#autor{
+    padding: 20 20 20 20;
+}
+#floor p a{
+font-family: monospace;
+color: azure;
+font-size: 15px;
+margin-left: 60;
+}
+#table{
+    width:25px;
+    height: 25px;;
+}
+.but{
+    height:75;
+    width: 210;
+background-image:url(FC_Chelsea/but1.png);
+    color:blanchedalmond;
+    font-family:Georgia;
+    font-size:20;
+    text-align: right;
+    
+}   
+#contentt p{
+    font-family: fantasy;
+    font-size:18;
+    text-align: justify;
+    margin: 5 5 5 5;
+    
+}
+#header{
+    width:350;
+    height: 80;
+    padding-top:20;
+    padding-left:50;
+}
