@@ -1,0 +1,75 @@
+
+*{  
+  vertical-align: baseline;  
+  font-family: inherit;  
+  font-style: inherit;  
+  font-size: 100%;  
+  border: none;  
+  padding: 0;  
+  margin: 0;  
+  } 
+
+table {  
+  border-collapse: collapse;  
+  border-spacing: 0;  
+  } 
+
+
+
+body{
+    background-image:url(FC_Chelsea_pre/stadium.jpg);
+}
+.header{
+display:block;
+width:1318px;
+background-image:url(FC_Chelsea_pre/ch.jpg);
+position: fixed;
+margin-left: 15px;
+}
+#logo{
+    margin-bottom:10px;
+    margin-left: 50px;
+}
+#adidas{
+position:relative;
+top:2px;
+left:850px; 
+}
+#yokohama{
+position: relative;
+  left:450px;
+}
+#content{
+margin: auto 250px;
+background-color: cornsilk;
+}
+footer{
+    padding-bottom: 60px;
+    background-image: url(FC_Chelsea_pre/floor.png);
+    background-position:top;
+}
+#back{
+position: relative;
+top:25px;
+left:25px;
+
+}
+#author{
+position: relative;
+left: 1000px;
+top: 25px;
+}
+#trf{
+    position: absolute;
+    top:500px;
+    left: 1100px;
+    border: 2px solid;
+}
+h1{
+font-size:24px;
+text-align: center;
+}
+p{
+    text-indent: 20px;
+    padding: 10px 10px 10px 10px;
+}
